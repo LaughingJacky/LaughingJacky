@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 😄 技能：前端五年以上，熟悉服务端JS，擅长网络服务开发、混合开发，会一点Rust、Swift
+
 <!--
 **LaughingJacky/LaughingJacky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
