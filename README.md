@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 - 😄 技能：前端五年以上，熟悉服务端JS，擅长网络服务开发、混合开发，会一点Rust、Swift
+- 🌱 专注于：网络服务、跨平台、人工智能
+- 📫 4264332@qq.com
+- 🔭 Tencent
+
 
 <!--
 **LaughingJacky/LaughingJacky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
