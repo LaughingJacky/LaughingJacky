@@ -1,23 +1,8 @@
-### Hi there 👋
+### 贾维斯研究者 🤖
 
-- 😄 技能：React、Node、Rust、Swift
-- 🌱 专注于：网络服务、跨平台、人工智能
-- 🤔 探索软硬件相关的企业级技术，也热衷于10000小时练习的愚蠢编码
+- 😄 技能：Javascript、Rust
+- 👨‍🔬 专注于：网络服务、跨平台、人工智能
+- 👨‍💻 探索软硬件相关的企业级技术，也热衷于10000小时练习的愚蠢编码
 - 📫 4264332@qq.com
-- 🔭 Tencent
+- 🐧 Tencent
 
-
-<!--
-**LaughingJacky/LaughingJacky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
